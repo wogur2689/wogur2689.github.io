@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "지식을 끄적이다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "colaLove"
 description              : "An amazing website."
 url                      : "https://wogur2689.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
